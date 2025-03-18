@@ -19,5 +19,8 @@
   "description": "",
   "devDependencies": {
     "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
   }
 }
