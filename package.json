@@ -16,5 +16,8 @@
     "url": "https://github.com/strawberrybeds/tachessnl/issues"
   },
   "homepage": "https://github.com/strawberrybeds/tachessnl#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
